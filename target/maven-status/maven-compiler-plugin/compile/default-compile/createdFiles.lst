@@ -1,0 +1,12 @@
+cn/phorcys/rpc/protocol/http/HttpServerHandler.class
+cn/phorcys/rpc/framework/Url.class
+cn/phorcys/rpc/protocol/http/HttpClient.class
+cn/phorcys/rpc/provider/Provider.class
+cn/phorcys/rpc/register/LocalRegister.class
+cn/phorcys/rpc/provider/api/DemoService.class
+cn/phorcys/rpc/register/RemoteRegistry.class
+cn/phorcys/rpc/protocol/http/Invocation.class
+cn/phorcys/rpc/consumer/Consumer.class
+cn/phorcys/rpc/provider/impl/DemoServiceImpl.class
+cn/phorcys/rpc/protocol/http/DispatcherServlet.class
+cn/phorcys/rpc/protocol/http/HttpServer.class
